@@ -1,0 +1,13 @@
+IFID: c111f0d6-5304-4aab-b6a7-03d7952f7b49
+Name: Snowbound
+Byline: by Alexander van Oostenrijk
+HtmlByline: by <a href="mailto:alex.vanoostenrijk@gmail.com"> Alexander van Oostenrijk</a>
+AuthorEmail: Alexander van Oostenrijk <alex.vanoostenrijk@gmail.com>
+Desc: Put a brief "blurb" about your game here
+HtmlDesc: Put a brief "blurb" about your game here
+Version: 1
+ReleaseDate: 2017-04-26
+Language: en-US
+LicenseType: Freeware
+CopyingRules: Nominal cost only; compilations allowed
+PresentationProfile: Default
